@@ -3,7 +3,7 @@ package sample03;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
-// 깃허브에 올리는데 한글이 다 깨지고있음 어떻게 해결함?
+// 깃허브에 올리는데 한글이 다 깨지고있음 어떻게 해결함? -> 깃헙데스크톱 커밋전에는 깨져보이는데 깃헙에서는 제대로 보임
 public class MainClass {
 
 	public static void main(String[] args) throws Exception{
